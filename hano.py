@@ -1,3 +1,5 @@
+#汉诺塔程序
+
 def move(from,to):
 	print(from,'->',to)
 def hanoi(n,src,tmp,dst):
