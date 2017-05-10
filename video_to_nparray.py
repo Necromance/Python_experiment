@@ -1,4 +1,4 @@
-将视频按帧存储，转换为numpy数组
+#将视频按帧存储，转换为numpy数组
 import numpy as np
 import cv2
 
